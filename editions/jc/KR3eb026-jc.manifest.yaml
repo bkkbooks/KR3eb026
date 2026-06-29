@@ -1,0 +1,710 @@
+canonical_identifier: bkk:krp/KR3eb026/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eb026/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 脈訣刊誤
+  identifiers:
+    krp: KR3eb026
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04310
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb026.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb026_000-jc.yaml, hash: 'sha256:cf00f6ff141934207cca85600c9faa99d80474424966cbfd93702b15f178c563'}
+  - {seq: 1, filename: KR3eb026_001-jc.yaml, hash: 'sha256:0b06aa10239c75812c9f3e3f2d80dedb6f9721ddd4c2023421caea885a6cce69'}
+  - {seq: 3, filename: KR3eb026_003-jc.yaml, hash: 'sha256:9c6d0ca8eee289b0c0dd1ff4e81c41e9e11b4d29d35a7e759bc12a80f1d0614a'}
+  - {seq: 0, filename: KR3eb026_000-jc.yaml, hash: 'sha256:e6412661d32646159b81a2e62417b1e4d0fad3846b11fe0f19b98b1f24dd59e2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb026_000-jc.markers.yaml, hash: 'sha256:7229274dc5e407228a7bdd04eb75af703a79b5fdab221ca1c3e11afd44765653'}
+  - {seq: 1, role: markers, filename: assets/KR3eb026_001-jc.markers.yaml, hash: 'sha256:b9bf2d560584896f52d448191298553b1ac2e93d1d1c86d23d2fc2fbcc134f28'}
+  - {seq: 3, role: markers, filename: assets/KR3eb026_003-jc.markers.yaml, hash: 'sha256:6ffcf862a33b9b0dd0e202840725471d754e7faa7234e35bf9b700e46fbc60e9'}
+  - {seq: 0, role: markers, filename: assets/KR3eb026_000-jc.markers.yaml, hash: 'sha256:7229274dc5e407228a7bdd04eb75af703a79b5fdab221ca1c3e11afd44765653'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb026_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 715
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb026_jc_000-d3.h1s1
+    span:
+    - front
+    - 715
+    - 1150
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb026_jc_000-d4.h1s1
+    span:
+    - front
+    - 1150
+    - 1421
+  label: 集解序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 22445
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5d4
+    span:
+    - body
+    - 138
+    - 7477
+  label: 診候入式歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5d5
+    span:
+    - body
+    - 7477
+    - 9310
+  label: 五臟歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5.d5d4
+    span:
+    - body
+    - 7485
+    - 7884
+  label: 心臟歌一
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5.d5d5
+    span:
+    - body
+    - 7884
+    - 7916
+  label: 心臟歌二
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5.d5d6
+    span:
+    - body
+    - 7916
+    - 8082
+  label: 心臟歌三
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5.d5d7
+    span:
+    - body
+    - 8082
+    - 8186
+  label: 肝臟歌一
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5.d5d8
+    span:
+    - body
+    - 8186
+    - 8218
+  label: 肝臟歌二
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5.d5d9
+    span:
+    - body
+    - 8218
+    - 8334
+  label: 肝臟歌三
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5.d5d10
+    span:
+    - body
+    - 8334
+    - 8521
+  label: 脾臟歌一
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5.d5d11
+    span:
+    - body
+    - 8521
+    - 8553
+  label: 脾臟歌二
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5.d5d12
+    span:
+    - body
+    - 8553
+    - 8661
+  label: 脾臟歌三
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5.d5d13
+    span:
+    - body
+    - 8661
+    - 8826
+  label: 肺臟歌一
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5.d5d14
+    span:
+    - body
+    - 8826
+    - 8858
+  label: 肺臟歌二
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5.d5d15
+    span:
+    - body
+    - 8858
+    - 8991
+  label: 肺臟歌三
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5.d5d16
+    span:
+    - body
+    - 8991
+    - 9170
+  label: 腎臟歌一
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5.d5d17
+    span:
+    - body
+    - 9170
+    - 9202
+  label: 腎臟歌二
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5.d5d18
+    span:
+    - body
+    - 9202
+    - 9310
+  label: 腎臟歌三
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5d6
+    span:
+    - body
+    - 9310
+    - 9685
+  label: 左右手分診五臟四時脈歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5d7
+    span:
+    - body
+    - 9685
+    - 9848
+  label: 左手寸口心脈歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5d8
+    span:
+    - body
+    - 9848
+    - 9984
+  label: 左手關部肝脈歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5d9
+    span:
+    - body
+    - 9984
+    - 10080
+  label: 左手尺部腎脈歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5d10
+    span:
+    - body
+    - 10080
+    - 10221
+  label: 右手寸口肺脈歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5d11
+    span:
+    - body
+    - 10221
+    - 10288
+  label: 右手關上脾脈歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5d12
+    span:
+    - body
+    - 10288
+    - 10354
+  label: 右手尺部命門腎脈歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5d13
+    span:
+    - body
+    - 10354
+    - 13500
+  label: 七表
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5d14
+    span:
+    - body
+    - 13500
+    - 17511
+  label: 八里
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb026_jc_001-d5d15
+    span:
+    - body
+    - 17511
+    - 22445
+  label: 九道
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 11714
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d2
+    span:
+    - body
+    - 2
+    - 2622
+  label: 分合偶比類說
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d3
+    span:
+    - body
+    - 2622
+    - 3028
+  label: 診雜病生死候歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d4
+    span:
+    - body
+    - 3028
+    - 3100
+  label: 診暴病歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d5
+    span:
+    - body
+    - 3100
+    - 3486
+  label: 形脈相反歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d6
+    span:
+    - body
+    - 3486
+    - 3711
+  label: 診四時病五行相剋歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d7
+    span:
+    - body
+    - 3711
+    - 3959
+  label: 決四時虛實五邪歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d8
+    span:
+    - body
+    - 3959
+    - 4245
+  label: 傷寒歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d9
+    span:
+    - body
+    - 4245
+    - 4397
+  label: 陽毒陰毒歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d10
+    span:
+    - body
+    - 4397
+    - 6430
+  label: 診諸雜病生死脈候歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d11
+    span:
+    - body
+    - 6430
+    - 7535
+  label: 察色觀病人生死候歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d12
+    span:
+    - body
+    - 7535
+    - 7719
+  label: 論五臟察色候歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d13
+    span:
+    - body
+    - 7719
+    - 9509
+  label: 診婦人有妊歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d14
+    span:
+    - body
+    - 9509
+    - 9633
+  label: 妊婦雜病生死歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d15
+    span:
+    - body
+    - 9633
+    - 9668
+  label: 妊娠心腹急痛歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d16
+    span:
+    - body
+    - 9668
+    - 9703
+  label: 妊娠倒僕損傷歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d17
+    span:
+    - body
+    - 9703
+    - 9784
+  label: 妊婦傷寒歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d18
+    span:
+    - body
+    - 9784
+    - 9926
+  label: 產後傷寒歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d19
+    span:
+    - body
+    - 9926
+    - 10502
+  label: 產難生死歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d20
+    span:
+    - body
+    - 10502
+    - 10704
+  label: 新產生死歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d21
+    span:
+    - body
+    - 10704
+    - 11149
+  label: 小兒生死候歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d22
+    span:
+    - body
+    - 11149
+    - 11229
+  label: 小兒外證十五候歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb026_jc_003-d6d23
+    span:
+    - body
+    - 11229
+    - 11714
+  label: 附錄辨奇經脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb026_jc_000-d7.h1s1
+    span:
+    - body
+    - 0
+    - 10463
+  label: 附錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb026_jc_000-d7d2
+    span:
+    - body
+    - 2
+    - 349
+  label: 診脈早晏法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb026_jc_000-d7d3
+    span:
+    - body
+    - 349
+    - 685
+  label: 寸關尺
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb026_jc_000-d7d4
+    span:
+    - body
+    - 685
+    - 1141
+  label: 五臟六腑脈所出
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb026_jc_000-d7d5
+    span:
+    - body
+    - 1141
+    - 1460
+  label: 五臟平脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb026_jc_000-d7d6
+    span:
+    - body
+    - 1460
+    - 1924
+  label: 六腑平脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb026_jc_000-d7d7
+    span:
+    - body
+    - 1924
+    - 2145
+  label: 四時平脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb026_jc_000-d7d8
+    span:
+    - body
+    - 2145
+    - 4197
+  label: 三部所主
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb026_jc_000-d7d9
+    span:
+    - body
+    - 4197
+    - 5930
+  label: 八段錦
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb026_jc_000-d7d10
+    span:
+    - body
+    - 5930
+    - 10463
+  label: 怪脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb026_jc_000-d7.d10d16
+    span:
+    - body
+    - 6618
+    - 9286
+  label: 矯世惑脈論
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eb026_jc_000-d7.d10d17
+    span:
+    - body
+    - 9286
+    - 10006
+  label: 論澀脈弦脈
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eb026_jc_000-d7.d10d18
+    span:
+    - body
+    - 10006
+    - 10149
+  label: 脈大必病進論
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eb026_jc_000-d7.d10d19
+    span:
+    - body
+    - 10149
+    - 10463
+  label: 脈說
+  type: section
+  level: 3
+hash: sha256:cf31d4784eaf02ddc4b834b38f4a747ced27afd372d9110172d2fdfa60697567
