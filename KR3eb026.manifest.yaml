@@ -17,14 +17,14 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eb026_000.yaml, hash: 'sha256:edc28b519fe7a8f09f88efb19fd21868e092ead7ed135b719e9329cd13b7b145'}
-  - {seq: 1, filename: KR3eb026_001.yaml, hash: 'sha256:d1697ff33e32f21a58a485ddc6a28bedafeecb0221b020f2ea5d9930aebefdcd'}
-  - {seq: 3, filename: KR3eb026_003.yaml, hash: 'sha256:ea39a683377ae722aa3eead9c4de92fdfd17e0cd189d0f115d03e7eb97be11bc'}
-  - {seq: 0, filename: KR3eb026_000.yaml, hash: 'sha256:edc28b519fe7a8f09f88efb19fd21868e092ead7ed135b719e9329cd13b7b145'}
+  - {seq: 0, filename: KR3eb026_000.yaml, hash: 'sha256:e6412661d32646159b81a2e62417b1e4d0fad3846b11fe0f19b98b1f24dd59e2'}
+  - {seq: 1, filename: KR3eb026_001.yaml, hash: 'sha256:0b06aa10239c75812c9f3e3f2d80dedb6f9721ddd4c2023421caea885a6cce69'}
+  - {seq: 3, filename: KR3eb026_003.yaml, hash: 'sha256:9c6d0ca8eee289b0c0dd1ff4e81c41e9e11b4d29d35a7e759bc12a80f1d0614a'}
+  - {seq: 0, filename: KR3eb026_000.yaml, hash: 'sha256:e6412661d32646159b81a2e62417b1e4d0fad3846b11fe0f19b98b1f24dd59e2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb026_000.markers.yaml, hash: 'sha256:f0b91d8928af0f655e2f539e09c5b88d9f322b2a3085175aca9d4f2534bc2259'}
-  - {seq: 1, role: markers, filename: assets/KR3eb026_001.markers.yaml, hash: 'sha256:9a3330671cd6bc36a5a4a78662c0f60b04dac79a8354d6711deb4cd087523e5a'}
-  - {seq: 3, role: markers, filename: assets/KR3eb026_003.markers.yaml, hash: 'sha256:07d7800f8a974e51c5659d639a6fc73b91daca30116d780f55a38de3630793dc'}
+  - {seq: 0, role: markers, filename: assets/KR3eb026_000.markers.yaml, hash: 'sha256:8183554ee1a07d9e1de731ef1f9e31c051325c3d18be076450c72d1fcb47a650'}
+  - {seq: 1, role: markers, filename: assets/KR3eb026_001.markers.yaml, hash: 'sha256:9be1cc0c8330820a1ca6f8ff9ef188f6cd249ec479236905057c49ecfa0382a3'}
+  - {seq: 3, role: markers, filename: assets/KR3eb026_003.markers.yaml, hash: 'sha256:966c23c1883bce9fbe0fc232f6474e569d7aa5982625477c005ad97727e7b41e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -706,7 +706,4 @@ table_of_contents:
   label: 脈說
   type: section
   level: 3
-hash: sha256:c3b219efba8e964bed1e5a3601d3b28fb531d1cf07a4add789c567a2b5dfa690
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6a00eb7e038f9fe10501f1dd7cb5bbac29781f007664bd2f18478d11423721ad
